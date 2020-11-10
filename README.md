@@ -1,6 +1,7 @@
 # Cuepid
 ## A simple disguise control and trigger app
-### TouchDesigner 2020.26630 Win 64 (Fully functional in Non-Commercial, Commercial+ recommended)
+### TouchDesigner 2020.26630 Win 64 
+#### (Fully functional in Non-Commercial, Commercial+ recommended)
 
 This is a work in progress.
 
