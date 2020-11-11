@@ -31,9 +31,9 @@ Id	Name	Syncfromtriggers	Synccuesbyids	Synccuesdelaysec	Sendosc1	Oscaddress1	Osc
 51	Suning Closing				True	showcontrol/cue_a	704	True	expr.parent.Cuepid.par.Teamscore2	False			False	0	False			False			tex/LoL_Icons/suning.png
 41	Idols to Icons				True	showcontrol/cue_a	705	False		False			False	0	False			False			tex/LoL_Icons/idol_icon.png
 21	MVP				True	showcontrol/cue_a	706	True		False			False	0	False			False			tex/LoL_Icons/mvp.png
+80	Team vs Team		81 82 83 84	0.0	True	showcontrol/cue_a	801	False		False			False	0	False			False			tex/LoL_Icons/teams.png
 34	Finale				True	showcontrol/cue_a	707	False		False			False	0	False			False			tex/LoL_Icons/timer-stop.png
 75	DWG Worlds Vict				True	showcontrol/cue_a	803	True	expr.parent.Cuepid.par.Teamscore1	False			False	0	False			False			tex/LoL_Icons/damwon2.png
-80	Team vs Team		81 82 83 84	0.0	True	showcontrol/cue_a	801	False		False			False	0	False			False			tex/LoL_Icons/teams.png
 76	SNG Worlds Vict				True	showcontrol/cue_a	804	True	expr.parent.Cuepid.par.Teamscore2	False			False	0	False			False			tex/LoL_Icons/suning.png
 81	matrix dwg				True	matrix/score_dwg/video/video	2	True	0	False			False	0	False			False			tex/LoL_Icons/null.png
 82	matrix sng				True	matrix/score_sng/video/video	3	True	0	False			False	0	False			False			tex/LoL_Icons/null.png
