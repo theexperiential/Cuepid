@@ -16,6 +16,7 @@ Cuepid easily controls disguise media servers using OSC, and transmits OSC/DMX (
 ## Features
 - Intuitive UX with customizable icons and modular layout
 - :dart: Easily control disguise with a multitude of left and right-click functions
+- :keyboard: Keyboard shortcuts for triggering cues supafast
 - Dark interface for show production
 - :stopwatch: Slick modular timecode visualizer that's lightweight too (tex3d instead of text top)
 - Autosaves configuration and parameters to disk (json/csv)
