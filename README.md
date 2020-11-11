@@ -12,7 +12,7 @@ Cuepid easily controls disguise media servers using OSC, and transmits OSC/DMX (
 
 This tool is perfect for media server operators and/or VJs who want a quick and easy way to control their shows, no matter how complex.
 
-[![Screenshot of Cuepid](/tex/git-screenshot.png "Screenshot of Cuepid")]
+![Screenshot of Cuepid](/tex/git-screenshot.png "Screenshot of Cuepid")
 
 ## Features
 - Easy to operate UX with customizable icons and modular layout
