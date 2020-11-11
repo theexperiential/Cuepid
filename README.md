@@ -1,6 +1,5 @@
 # :cupid: Cuepid
 ## A simple disguise control + trigger app
----
 ### TouchDesigner 2020.26630 Win 64 
 #### _Fully functional in Non-Commercial license; Commercial+ license recommended_
 
@@ -29,4 +28,4 @@ This tool is perfect for media server operators and/or VJs who want a quick and 
 
 Many features planned, including a timeline of sorts... Feel free to leave feedback/bug reports in the Issues section, or drop us a line at hello@tec.design
 
-Coded with :heart: in Shanghai and LA.
+Coded with :heart: in Shanghai and LA
