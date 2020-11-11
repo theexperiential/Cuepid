@@ -1,6 +1,6 @@
 # :cupid: Cuepid
 ## A simple disguise control + trigger app
-### TouchDesigner 2020.26630 Win 64 
+### :floppy_disk: TouchDesigner 2020.26630 Win 64 
 #### _Fully functional in Non-Commercial license; Commercial+ license recommended_
 
 ---
@@ -9,7 +9,7 @@
 
 Cuepid easily controls disguise media servers using OSC, and transmits OSC/DMX (Art-Net) messages to disguise and/or any media server or lighting system that supports these protocols. Can transmit many (complex) messages at once, and repeatedly in set intervals, to up to 3 separate OSC devices and 1 DMX device at the same time. 
 
-This tool is perfect for media server operators and/or VJs who want a quick and easy way to control their shows, no matter how complex.
+:performing_arts: This tool is perfect for media server operators and/or VJs who want a quick and easy way to control their shows, no matter how complex.
 
 ![Screenshot of Cuepid](/tex/git-screenshot.png "Screenshot of Cuepid")
 
