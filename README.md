@@ -1,6 +1,6 @@
 # :cupid: Cuepid
 ## A simple disguise control + trigger app
-### :floppy_disk: TouchDesigner 2020.26630 Win 64 
+### :floppy_disk: [TouchDesigner](https://derivative.ca) 2020.26630 Win 64 
 #### _Fully functional in Non-Commercial license; Commercial+ license recommended_
 
 ---
