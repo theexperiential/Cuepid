@@ -1,3 +1,5 @@
+![Cuepid Logo](/tex/cuepid-logo.png "Cuepid Logo")
+
 # :cupid: Cuepid
 ## A simple disguise control + trigger app
 ### :floppy_disk: [TouchDesigner](https://derivative.ca) 2020.26630 Win 64 
