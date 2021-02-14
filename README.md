@@ -1,4 +1,4 @@
-![Cuepid Logo](/tex/cuepid-logo.png "Cuepid Logo")
+![Cuepid Logo](/tex/cuepid-logo.png "Cuepid Logo" =250x250)
 
 # :cupid: Cuepid
 ## A simple disguise control + trigger app
