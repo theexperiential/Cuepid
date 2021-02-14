@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/theexperiential/Cuepid/main/tex/cuepid-logo.png" width="250">
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/theexperiential/Cuepid/main/tex/cuepid-logo.png" width="250">
+</p>
 # :cupid: Cuepid
 ## A simple disguise control + trigger app
 ### :floppy_disk: [TouchDesigner](https://derivative.ca) 2020.26630 Win 64 
