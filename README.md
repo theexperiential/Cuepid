@@ -1,4 +1,4 @@
-![Cuepid Logo](/tex/cuepid-logo.png "Cuepid Logo" =250x250)
+<img src="https://raw.githubusercontent.com/theexperiential/Cuepid/main/tex/cuepid-logo.png" width="250">
 
 # :cupid: Cuepid
 ## A simple disguise control + trigger app
